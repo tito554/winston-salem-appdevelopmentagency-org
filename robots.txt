@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winston-salem.appdevelopmentagency.org/sitemap.xml
